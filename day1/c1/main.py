@@ -1,9 +1,1 @@
-numbers = []
-
-with open("words.txt", "r") as f:
-    for line in f:
-        digits = [x for x in line.rstrip() if x.isdigit()]
-        numbers.append(int(digits[0] + digits[-1]))
-
-total = sum(numbers)
-print(total)
+print(sum([int([x for x in line.rstrip() if x.isdigit()][0] + [x for x in line.rstrip() if x.isdigit()][0]) for line in open("words.txt", "r")]))
