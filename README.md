@@ -9,4 +9,4 @@ These are my advent of code solutions, some are not optimized and have just been
     - [x] Challenge 2 - Not optimised
 - Day 2
     - [x] Challenge 1 - Not optimised
-    - [ ] Challenge 2
+    - [x] Challenge 2 - Not optimised
