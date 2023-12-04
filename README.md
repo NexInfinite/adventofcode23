@@ -10,3 +10,5 @@ These are my advent of code solutions, some are not optimized and have just been
 - Day 2
     - [x] Challenge 1 - Not optimised
     - [x] Challenge 2 - Not optimised
+- Day 3
+    - [x] Challenge 1 - HAHAHAHAH LOLLL!!! TOOK ALMOST 2 HOURS HAHAH IT WAS PYTHON LOOPING LOLL IM SO HAPPY RN :))) HAHAHHAHA LOL!!
