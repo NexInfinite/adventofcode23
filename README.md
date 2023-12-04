@@ -12,3 +12,4 @@ These are my advent of code solutions, some are not optimized and have just been
     - [x] Challenge 2 - Not optimised
 - Day 3
     - [x] Challenge 1 - Not optimised
+    - [x] Challenge 2 - Not optimised (basically the same as c1)
