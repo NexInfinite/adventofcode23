@@ -1,4 +1,4 @@
-cards = [[[int(x) for x in line.rstrip().split(":")[1].split("|")[0].split(" ") if x != ""], [int(x) for x in line.rstrip().split(":")[1] .split("|")[1].split(" ") if x != ""]] for line in open("test.txt")]
+cards = [[[int(x) for x in line.rstrip().split(":")[1].split("|")[0].split(" ") if x != ""], [int(x) for x in line.rstrip().split(":")[1].split("|")[1].split(" ") if x != ""]] for line in open("test.txt")]
 
 total = 0
 for card in cards:
