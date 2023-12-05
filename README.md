@@ -4,6 +4,7 @@ These are my advent of code solutions, some are not optimized and have just been
 
 ## Solutions
 
+Most of these aren't optimised, this really isn't my best code
 - Day 1
     - [x] Challenge 1 - Over optimised (one liner)
     - [x] Challenge 2 - Not optimised
@@ -15,4 +16,4 @@ These are my advent of code solutions, some are not optimized and have just been
     - [x] Challenge 2 - Not optimised (basically the same as c1)
 - Day 4
     - [x] Challenge 1 - Somewhat Optimised
-    - [ ] Challenge 2 - Not started
+    - [x] Challenge 2 - Not optimised
