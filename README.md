@@ -13,3 +13,6 @@ These are my advent of code solutions, some are not optimized and have just been
 - Day 3
     - [x] Challenge 1 - Not optimised
     - [x] Challenge 2 - Not optimised (basically the same as c1)
+- Day 4
+    - [x] Challenge 1 - Somewhat Optimised
+    - [ ] Challenge 2 - Not started
